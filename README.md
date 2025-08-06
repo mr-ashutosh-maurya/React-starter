@@ -1,7 +1,8 @@
 react router dom is used when we want to make multi-page web application . it helps us to navigate from one page to another eaisly
+//install react
+npn create vite@latest
 
 // to use react router dom
-
 npm i react-router-dom
 
 // use
